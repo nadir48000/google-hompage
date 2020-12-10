@@ -1,0 +1,1 @@
+This is a short description for the google-hompage repository. first off this is an odin project in assocciation with microverse pre-course work, i used only css and html to re-create and stylize the page as specified by the instructions
